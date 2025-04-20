@@ -26,14 +26,12 @@ img {
     height: auto;
 }
 
-/* Container */
 .container {
     max-width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
 }
 
-/* Header */
 .header-container {
     display: flex;
     align-items: center;
@@ -95,7 +93,6 @@ img {
     color: #434455;
 }
 
-/* Main section */
 .page-main {
     background-color: #2E2F42;
     padding: 188px 0 188px;
@@ -132,7 +129,6 @@ img {
     background-color: #404BBF;
 }
 
-/* Features */
 .section {
     padding: 120px 0;
 }
@@ -157,7 +153,6 @@ img {
     color: #2E2F42;
 }
 
-/* Team */
 .team {
     background-color: #F4F4FD;
 }
@@ -189,7 +184,6 @@ img {
     text-align: center;
 }
 
-/* Portfolio */
 .list-portfolio {
     display: flex;
     flex-wrap: wrap;
@@ -229,7 +223,6 @@ img {
     letter-spacing: 0.02em;
 }
 
-/* Footer */
 .page-footer {
     background-color: #2E2F42;
     padding: 100px 0;
